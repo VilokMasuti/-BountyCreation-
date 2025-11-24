@@ -264,7 +264,7 @@ The easiest way to deploy is using [Vercel] https://bounty-creation-gamma.vercel
 
 ## Contact
 Vilok — frontend developer  
-GitHub: https://github.com/<your-username>  
-Email: \<your-email\>
+GitHub: [https://github.com/<your-username> ](https://github.com/VilokMasuti) 
+Email: vilokmasuti@outlook.com
 
 ```
