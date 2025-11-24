@@ -32,7 +32,7 @@ Bounty Wizard is a full-featured Next.js application that guides users through a
 - **State Management**: React Context + useReducer
 - **Theme**: next-themes
 - **Icons**: lucide-react
-- **Fonts**: Geist (Google Fonts)
+
 
 ## Code Structure
 
@@ -205,7 +205,7 @@ npm run start
 
 ### Deploy to Vercel
 
-The easiest way to deploy is using [Vercel](https://vercel.com/):
+The easiest way to deploy is using [Vercel] https://bounty-creation-gamma.vercel.app
 
 
 
@@ -261,4 +261,10 @@ The easiest way to deploy is using [Vercel](https://vercel.com/):
 - Optimized with Next.js Image and lazy loading
 - Efficient form re-renders with useReducer
 - Smooth animations and transitions
+
+## Contact
+Vilok — frontend developer  
+GitHub: https://github.com/<your-username>  
+Email: \<your-email\>
+
 ```
